@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides integration with RGB Lightning Node APIs. This server enables AI assistants to interact with RGB assets, Lightning Network operations, and Bitcoin on-chain transactions.
 
+<a href="https://glama.ai/mcp/servers/@lnfi-network/rgb-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@lnfi-network/rgb-mcp-server/badge" alt="RGB Lightning Network Server MCP server" />
+</a>
+
 ## Features
 
 - **Node Operations**: Check node status, get network information
